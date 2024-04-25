@@ -162,3 +162,6 @@ buildNumber.properties
 .classpath
 
 # End of https://www.toptal.com/developers/gitignore/api/java,intellij,maven
+
+/BDD.iml
+/BDD.ipr
