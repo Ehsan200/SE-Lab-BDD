@@ -40,3 +40,21 @@
 حال تست‌های برنامه را اجرا می‌کنیم تا صحت عملکرد آن را بررسی کنیم:
 
 <img src="./images/test-result.png" alt="test-result">
+
+---
+
+### Project Owner Report
+
+برد کانبان برای پروژه ایجاد شد و تسک‌های زیر به ترتیب آورده شده انجام شدند:
+
+<img src="./images/PO/1.png" alt="board">
+<img src="./images/PO/2.png" alt="board">
+<img src="./images/PO/3.png" alt="board">
+<img src="./images/PO/4.png" alt="board">
+<img src="./images/PO/5.png" alt="board">
+<img src="./images/PO/6.png" alt="board">
+<img src="./images/PO/7.png" alt="board">
+<img src="./images/PO/8.png" alt="board">
+<img src="./images/PO/9.png" alt="board">
+<img src="./images/PO/10.png" alt="board">
+<img src="./images/PO/11.png" alt="board">
