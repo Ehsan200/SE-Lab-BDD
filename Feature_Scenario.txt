@@ -1,0 +1,60 @@
+Feature: Calculator
+
+  Scenario: multiplying two numbers
+    Given: I have entered 50 into the calculator
+    And I have entered 2 into the calculator
+    When: I enter *
+    Then: the result should be 100 on the screen 
+
+  Scenario: multiplying two numbers
+    Given: I have entered 5 into the calculator
+    And I have entered 6 into the calculator
+    When: I enter *
+    Then: the result should be 30 on the screen
+
+Scenario: multiplying two numbers
+    Given: I have entered 12 into the calculator
+    And I have entered 8 into the calculator
+    When: I enter *
+    Then: the result should be 96 on the screen 
+
+
+Scenario: dividing two numbers
+    Given: I have entered 10 into the calculator
+    And I have entered 2 into the calculator
+    When: I enter /
+    Then: the result should be 5 on the screen
+
+Scenario: dividing two numbers
+    Given: I have entered 40 into the calculator
+    And I have entered 20 into the calculator
+    When: I enter /
+    Then: the result should be 2 on the screen
+
+Scenario: dividing two numbers
+    Given: I have entered 65 into the calculator
+    And I have entered 13 into the calculator
+    When: I enter /
+    Then: the result should be 5 on the screen
+
+Scenario: powering two numbers
+    Given: I have entered 3 into the calculator
+    And I have entered 5 into the calculator
+    When: I enter ^
+    Then: the result should be 243 on the screen
+
+Scenario: powering two numbers
+    Given: I have entered 10 into the calculator
+    And I have entered 2 into the calculator
+    When: I enter ^
+    Then: the result should be 100 on the screen
+
+Scenario: powering two numbers
+    Given: I have entered 4 into the calculator
+    And I have entered 3 into the calculator
+    When: I enter ^
+    Then: the result should be 64 on the screen
+
+
+
+
