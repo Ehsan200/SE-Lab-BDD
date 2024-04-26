@@ -21,3 +21,22 @@
 </div>
 
 ```(\\d+)``` ==>  ```(-?\\d+)```
+
+---
+
+3. ابتدا سناریوی تست‌ها را می‌نویسیم:
+
+<img src="./images/feature1.png" alt="feature1">
+<img src="./images/feature2.png" alt="feature2">
+
+سپس با توجه به سناریوهای نوشته شده MyStepdefs را تعریف می‌کنیم:
+
+<img src="./images/stepdef.png" alt="stepdef">
+
+حال که تست‌ها را نوشتیم، کد برنامه‌ی ماشین‌حساب را پیاده‌سازی می‌کنیم:
+
+<img src="./images/code.png" alt="code">
+
+حال تست‌های برنامه را اجرا می‌کنیم تا صحت عملکرد آن را بررسی کنیم:
+
+<img src="./images/test-result.png" alt="test-result">
